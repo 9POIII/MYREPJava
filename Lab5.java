@@ -1,3 +1,5 @@
+package com.company.lab51;
+
 public class Lab5 {
 
 
