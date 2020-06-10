@@ -35,8 +35,6 @@ public class Lab5 {
 		Letter a = new Letter('н');
 		Letter k = new Letter('й');
 		removeOfString(b, a, k);
-		/**Sentence w1 = new Sentence("Roma poshel spat, potomu chto", '.');
-		System.out.println(w1.collectSentence());**/
 		System.out.println(b.collectText());
 	}
 }
